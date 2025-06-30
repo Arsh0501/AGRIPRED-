@@ -3,10 +3,18 @@ AGRIPRED is an AI-based web application that helps farmers detect diseases in pa
 
 🚀 Features
 📸 Upload a photo of an affected paddy leaf
+
+
 🤖 Get real-time disease prediction using a trained ResNet50 deep learning model
+
+
 🧠 Integrated AI Chat Assistant with 24/7 support
+
+
 💊 Personalized treatment recommendations
-🔍 Detects 10 types of rice diseases including:
+
+
+🔍 Detects 10 types of rice diseases, including:
 Rice Blast
 Rice Hispa
 Rice Brown Spot
